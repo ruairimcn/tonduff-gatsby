@@ -11,8 +11,9 @@ const IndexPage = () => {
       <p>Welcome to my Gatsby site. This text is inside a React Layout.</p>
       <StaticImage
         alt="Cliffort the pitbull"
-        src="../images/clifford.jpeg"
+        src="../images/clifford.jpg" 
       />
+    
     </Layout>
   )
 }
